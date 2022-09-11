@@ -2,3 +2,4 @@ Hello Git 123
 It's new line.
 And i again change this place
 Rebase
+123
